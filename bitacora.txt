@@ -1,0 +1,5 @@
+
+2024/11/06: danilo - Ingreso fallido usuario/clave erróneo
+2024/11/06: danilo - Ingreso fallido usuario/clave erróneo
+2024/11/06: nicolas - Ingreso fallido usuario/clave erróneo
+2024/11/06: danilo - Ingreso exitoso al sistema
